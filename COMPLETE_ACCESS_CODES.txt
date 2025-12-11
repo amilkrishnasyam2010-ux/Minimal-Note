@@ -1,0 +1,333 @@
+╔══════════════════════════════════════════════════════════════╗
+║         MINIMAL NOTES - COMPLETE ACCESS CODE LIST           ║
+╚══════════════════════════════════════════════════════════════╝
+
+MATHS - ALL CHAPTERS (1-13)
+═══════════════════════════════════════════════════════════════
+
+Chapter 1:
+  📝 Notes:         Maths_1              → MNTLAR4
+  ❓ Question Bank: Maths_1_QB           → MNBFVWZ
+  📖 One Word:      Maths_1_OW           → MNBFVVU
+
+Chapter 2:
+  📝 Notes:         Maths_2              → MNTLAR4
+  ❓ Question Bank: Maths_2_QB           → MNBGIWI
+  📖 One Word:      Maths_2_OW           → MNBGIVD
+
+Chapter 3:
+  📝 Notes:         Maths_3              → MNTLAR4
+  ❓ Question Bank: Maths_3_QB           → MNBH5W1
+  📖 One Word:      Maths_3_OW           → MNBH5UW
+
+Chapter 4:
+  📝 Notes:         Maths_4              → MNTLAR4
+  ❓ Question Bank: Maths_4_QB           → MNBHSVK
+  📖 One Word:      Maths_4_OW           → MNBHSUF
+
+Chapter 5:
+  📝 Notes:         Maths_5              → MNTLAR3
+  ❓ Question Bank: Maths_5_QB           → MNBIFV3
+  📖 One Word:      Maths_5_OW           → MNBIFTY
+
+Chapter 6:
+  📝 Notes:         Maths_6              → MNTLAR3
+  ❓ Question Bank: Maths_6_QB           → MNBJ2UM
+  📖 One Word:      Maths_6_OW           → MNBJ2TH
+
+Chapter 7:
+  📝 Notes:         Maths_7              → MNTLAR3
+  ❓ Question Bank: Maths_7_QB           → MNBJPU5
+  📖 One Word:      Maths_7_OW           → MNBJPT0
+
+Chapter 8:
+  📝 Notes:         Maths_8              → MNTLAR3
+  ❓ Question Bank: Maths_8_QB           → MNBKCTO
+  📖 One Word:      Maths_8_OW           → MNBKCSJ
+
+Chapter 9:
+  📝 Notes:         Maths_9              → MNTLAR3
+  ❓ Question Bank: Maths_9_QB           → MNBKZT7
+  📖 One Word:      Maths_9_OW           → MNBKZS2
+
+Chapter 10:
+  📝 Notes:         Maths_10             → MN627D7
+  ❓ Question Bank: Maths_10_QB          → MN9TURS
+  📖 One Word:      Maths_10_OW          → MN9TURR
+
+Chapter 11:
+  📝 Notes:         Maths_11             → MN627D7
+  ❓ Question Bank: Maths_11_QB          → MN9TVES
+  📖 One Word:      Maths_11_OW          → MN9TVER
+
+Chapter 12:
+  📝 Notes:         Maths_12             → MN627D7
+  ❓ Question Bank: Maths_12_QB          → MN9TW1R
+  📖 One Word:      Maths_12_OW          → MN9TW1Q
+
+Chapter 13:
+  📝 Notes:         Maths_13             → MN627D7
+  ❓ Question Bank: Maths_13_QB          → MN9TWOR
+  📖 One Word:      Maths_13_OW          → MN9TWOQ
+
+
+PHYSICS - ALL CHAPTERS (1-7)
+═══════════════════════════════════════════════════════════════
+
+Chapter 1:
+  📝 Notes:         Physics_1            → MNN9WLY
+  ❓ Question Bank: Physics_1_QB         → MNDD5CL
+  📖 One Word:      Physics_1_OW         → MNDD5CM
+
+Chapter 2:
+  📝 Notes:         Physics_2            → MNN9WLY
+  ❓ Question Bank: Physics_2_QB         → MNDD4PM
+  📖 One Word:      Physics_2_OW         → MNDD4PN
+
+Chapter 3:
+  📝 Notes:         Physics_3            → MNN9WLY
+  ❓ Question Bank: Physics_3_QB         → MNDD42M
+  📖 One Word:      Physics_3_OW         → MNDD42N
+
+Chapter 4:
+  📝 Notes:         Physics_4            → MNN9WLY
+  ❓ Question Bank: Physics_4_QB         → MNDD3FN
+  📖 One Word:      Physics_4_OW         → MNDD3FO
+
+Chapter 5:
+  📝 Notes:         Physics_5            → MNN9WLY
+  ❓ Question Bank: Physics_5_QB         → MNDD2SN
+  📖 One Word:      Physics_5_OW         → MNDD2SO
+
+Chapter 6:
+  📝 Notes:         Physics_6            → MNN9WLY
+  ❓ Question Bank: Physics_6_QB         → MNDD25N
+  📖 One Word:      Physics_6_OW         → MNDD25P
+
+Chapter 7:
+  📝 Notes:         Physics_7            → MNN9WLY
+  ❓ Question Bank: Physics_7_QB         → MNDD1IO
+  📖 One Word:      Physics_7_OW         → MNDD1IP
+
+
+CHEMISTRY - ALL CHAPTERS (1-7)
+═══════════════════════════════════════════════════════════════
+
+Chapter 1:
+  📝 Notes:         Chemistry_1          → MNU72P8
+  ❓ Question Bank: Chemistry_1_QB       → MNLNIZP
+  📖 One Word:      Chemistry_1_OW       → MNLNIZQ
+
+Chapter 2:
+  📝 Notes:         Chemistry_2          → MNU72P8
+  ❓ Question Bank: Chemistry_2_QB       → MNLNICP
+  📖 One Word:      Chemistry_2_OW       → MNLNICR
+
+Chapter 3:
+  📝 Notes:         Chemistry_3          → MNU72P8
+  ❓ Question Bank: Chemistry_3_QB       → MNLNHPQ
+  📖 One Word:      Chemistry_3_OW       → MNLNHPR
+
+Chapter 4:
+  📝 Notes:         Chemistry_4          → MNU72P8
+  ❓ Question Bank: Chemistry_4_QB       → MNLNH2Q
+  📖 One Word:      Chemistry_4_OW       → MNLNH2S
+
+Chapter 5:
+  📝 Notes:         Chemistry_5          → MNU72P8
+  ❓ Question Bank: Chemistry_5_QB       → MNLNGFR
+  📖 One Word:      Chemistry_5_OW       → MNLNGFS
+
+Chapter 6:
+  📝 Notes:         Chemistry_6          → MNU72P8
+  ❓ Question Bank: Chemistry_6_QB       → MNLNFSR
+  📖 One Word:      Chemistry_6_OW       → MNLNFST
+
+Chapter 7:
+  📝 Notes:         Chemistry_7          → MNU72P8
+  ❓ Question Bank: Chemistry_7_QB       → MNLNF5S
+  📖 One Word:      Chemistry_7_OW       → MNLNF5T
+
+
+BIOLOGY - ALL CHAPTERS (1-6)
+═══════════════════════════════════════════════════════════════
+
+Chapter 1:
+  📝 Notes:         Biology_1            → MNYKDMU
+  ❓ Question Bank: Biology_1_QB         → MNMX8Q0
+  📖 One Word:      Biology_1_OW         → MNMX8Q2
+
+Chapter 2:
+  📝 Notes:         Biology_2            → MNYKDMU
+  ❓ Question Bank: Biology_2_QB         → MNMX831
+  📖 One Word:      Biology_2_OW         → MNMX832
+
+Chapter 3:
+  📝 Notes:         Biology_3            → MNYKDMU
+  ❓ Question Bank: Biology_3_QB         → MNMX7G1
+  📖 One Word:      Biology_3_OW         → MNMX7G2
+
+Chapter 4:
+  📝 Notes:         Biology_4            → MNYKDMU
+  ❓ Question Bank: Biology_4_QB         → MNMX6T2
+  📖 One Word:      Biology_4_OW         → MNMX6T3
+
+Chapter 5:
+  📝 Notes:         Biology_5            → MNYKDMU
+  ❓ Question Bank: Biology_5_QB         → MNMX662
+  📖 One Word:      Biology_5_OW         → MNMX663
+
+Chapter 6:
+  📝 Notes:         Biology_6            → MNYKDMU
+  ❓ Question Bank: Biology_6_QB         → MNMX5J3
+  📖 One Word:      Biology_6_OW         → MNMX5J4
+
+
+GEOGRAPHY - ALL CHAPTERS (1-8)
+═══════════════════════════════════════════════════════════════
+
+Chapter 1:
+  📝 Notes:         Geography_1          → MN135YB
+  ❓ Question Bank: Geography_1_QB       → MNKBWLJ
+  📖 One Word:      Geography_1_OW       → MNKBWLL
+
+Chapter 2:
+  📝 Notes:         Geography_2          → MN135YB
+  ❓ Question Bank: Geography_2_QB       → MNKBVYK
+  📖 One Word:      Geography_2_OW       → MNKBVYL
+
+Chapter 3:
+  📝 Notes:         Geography_3          → MN135YB
+  ❓ Question Bank: Geography_3_QB       → MNKBVBK
+  📖 One Word:      Geography_3_OW       → MNKBVBM
+
+Chapter 4:
+  📝 Notes:         Geography_4          → MN135YB
+  ❓ Question Bank: Geography_4_QB       → MNKBUOL
+  📖 One Word:      Geography_4_OW       → MNKBUOM
+
+Chapter 5:
+  📝 Notes:         Geography_5          → MN135YB
+  ❓ Question Bank: Geography_5_QB       → MNKBU1L
+  📖 One Word:      Geography_5_OW       → MNKBU1M
+
+Chapter 6:
+  📝 Notes:         Geography_6          → MN135YB
+  ❓ Question Bank: Geography_6_QB       → MNKBTEM
+  📖 One Word:      Geography_6_OW       → MNKBTEN
+
+Chapter 7:
+  📝 Notes:         Geography_7          → MN135YB
+  ❓ Question Bank: Geography_7_QB       → MNKBSRM
+  📖 One Word:      Geography_7_OW       → MNKBSRN
+
+Chapter 8:
+  📝 Notes:         Geography_8          → MN135YA
+  ❓ Question Bank: Geography_8_QB       → MNKBS4N
+  📖 One Word:      Geography_8_OW       → MNKBS4O
+
+
+HISTORY - ALL CHAPTERS (1-9)
+═══════════════════════════════════════════════════════════════
+
+Chapter 1:
+  📝 Notes:         History_1            → MN9COIQ
+  ❓ Question Bank: History_1_QB         → MNTRJFW
+  📖 One Word:      History_1_OW         → MNTRJFX
+
+Chapter 2:
+  📝 Notes:         History_2            → MN9COIQ
+  ❓ Question Bank: History_2_QB         → MNTRISW
+  📖 One Word:      History_2_OW         → MNTRISX
+
+Chapter 3:
+  📝 Notes:         History_3            → MN9COIQ
+  ❓ Question Bank: History_3_QB         → MNTRI5X
+  📖 One Word:      History_3_OW         → MNTRI5Y
+
+Chapter 4:
+  📝 Notes:         History_4            → MN9COIQ
+  ❓ Question Bank: History_4_QB         → MNTRHIX
+  📖 One Word:      History_4_OW         → MNTRHIY
+
+Chapter 5:
+  📝 Notes:         History_5            → MN9COIQ
+  ❓ Question Bank: History_5_QB         → MNTRGVY
+  📖 One Word:      History_5_OW         → MNTRGVZ
+
+Chapter 6:
+  📝 Notes:         History_6            → MN9COIQ
+  ❓ Question Bank: History_6_QB         → MNTRG8Y
+  📖 One Word:      History_6_OW         → MNTRG8Z
+
+Chapter 7:
+  📝 Notes:         History_7            → MN9COIQ
+  ❓ Question Bank: History_7_QB         → MNTRFLZ
+  📖 One Word:      History_7_OW         → MNTRFM0
+
+Chapter 8:
+  📝 Notes:         History_8            → MN9COIQ
+  ❓ Question Bank: History_8_QB         → MNTREYZ
+  📖 One Word:      History_8_OW         → MNTREZ0
+
+Chapter 9:
+  📝 Notes:         History_9            → MN9COIQ
+  ❓ Question Bank: History_9_QB         → MNTREBZ
+  📖 One Word:      History_9_OW         → MNTREC1
+
+
+SOCIAL SCIENCE 2 - ALL CHAPTERS (1-8)
+═══════════════════════════════════════════════════════════════
+
+Chapter 1:
+  📝 Notes:         SocialScience2_1     → MNG7Y97
+  ❓ Question Bank: SocialScience2_1_QB  → MNCV3U5
+  📖 One Word:      SocialScience2_1_OW  → MNCV3U6
+
+Chapter 2:
+  📝 Notes:         SocialScience2_2     → MNG7Y97
+  ❓ Question Bank: SocialScience2_2_QB  → MNCV375
+  📖 One Word:      SocialScience2_2_OW  → MNCV376
+
+Chapter 3:
+  📝 Notes:         SocialScience2_3     → MNG7Y97
+  ❓ Question Bank: SocialScience2_3_QB  → MNCV2K6
+  📖 One Word:      SocialScience2_3_OW  → MNCV2K7
+
+Chapter 4:
+  📝 Notes:         SocialScience2_4     → MNG7Y97
+  ❓ Question Bank: SocialScience2_4_QB  → MNCV1X6
+  📖 One Word:      SocialScience2_4_OW  → MNCV1X7
+
+Chapter 5:
+  📝 Notes:         SocialScience2_5     → MNG7Y97
+  ❓ Question Bank: SocialScience2_5_QB  → MNCV1A7
+  📖 One Word:      SocialScience2_5_OW  → MNCV1A8
+
+Chapter 6:
+  📝 Notes:         SocialScience2_6     → MNG7Y97
+  ❓ Question Bank: SocialScience2_6_QB  → MNCV0N7
+  📖 One Word:      SocialScience2_6_OW  → MNCV0N8
+
+Chapter 7:
+  📝 Notes:         SocialScience2_7     → MNG7Y97
+  ❓ Question Bank: SocialScience2_7_QB  → MNCV008
+  📖 One Word:      SocialScience2_7_OW  → MNCV009
+
+Chapter 8:
+  📝 Notes:         SocialScience2_8     → MNG7Y97
+  ❓ Question Bank: SocialScience2_8_QB  → MNCUZD8
+  📖 One Word:      SocialScience2_8_OW  → MNCUZD9
+
+
+═══════════════════════════════════════════════════════════════
+FREE RESOURCES (No Access Code Required)
+═══════════════════════════════════════════════════════════════
+
+✨ Maths_6_QB      - FREE
+✨ Maths_7_QB      - FREE
+✨ Physics_5_QB    - FREE
+✨ History_4_QB    - FREE
+
+═══════════════════════════════════════════════════════════════
+
